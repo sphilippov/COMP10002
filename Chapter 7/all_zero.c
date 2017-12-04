@@ -1,3 +1,5 @@
+/* Chapter 7, exercise 1 */
+
 #include <stdio.h>
 
 #define MAX 10
