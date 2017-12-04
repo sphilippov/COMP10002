@@ -1,4 +1,4 @@
 # COMP10002
 Foundations of Algorithms
 
-Collection of basic C code and algorithms relevant to the subject
+Library of attempted exercises from the book "Programming, Problem Solving and Abstraction with C" by Alistair Moffat
